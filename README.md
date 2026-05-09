@@ -71,3 +71,7 @@ cd /data/coding/python/exa-cli
 uv sync
 uv run pytest
 ```
+
+## LICENSE
+
+[MIT](LICENSE)
