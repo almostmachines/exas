@@ -5,7 +5,8 @@ A thorough CLI for the [Exa](https://exa.ai) `/search` endpoint. Every flag in t
 ## Install
 
 ```sh
-uv tool install /data/coding/python/exa-cli
+git clone https://github.com/almostmachines/exas.git
+uv tool install ./exas
 ```
 
 This drops `exas` on `$PATH` (under `~/.local/bin`).
